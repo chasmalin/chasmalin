@@ -9,7 +9,7 @@
 ![Snake animation](https://github.com/chasmalin/chasmalin/blob/output/github-contribution-grid-snake.svg)
   
 <div>
-  <img align="right" alt="chasmalin-pic" height="160" style="border-radius:50px;" src="https://media.discordapp.net/attachments/989589535333711883/989604561461321738/chasmalin05.png">
+  <img align="right" alt="chasmalin-pic" height="160" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/989589535333711883/991060503524692069/chas-gif01.gif">
 </div>
   
 <!--
