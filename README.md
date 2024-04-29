@@ -6,13 +6,16 @@
   <img height="145em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chasmalin&layout=compact&langs_count=7&theme=vision-friendly-dark"/>
 </div>
 
-![Snake animation](https://github.com/chasmalin/chasmalin/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/chasmalin/chasmalin/blob/output/github-contribution-grid-snake.svg)
   
+<!--
+![Snake animation](https://github.com/chasmalin/chasmalin/blob/output/github-contribution-grid-snake.svg)
+
 <div>
   <img align="right" alt="chasmalin-pic" height="160" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/989589535333711883/989604561813655642/chasmalin02.png">
 </div>
   
-<!--
+
 
 **chasmalin/chasmalin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
