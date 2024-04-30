@@ -4,9 +4,9 @@
   <a href="https://github.com/chasmalin">
   <!--<img height="145em" src="https://github-readme-stats.vercel.app/api?username=chasmalin&show_icons=true&theme=great-gatsby&include_all_commits=true&count_private=true"/>-->
   <img height="145em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chasmalin&layout=compact&langs_count=7&theme=vision-friendly-dark"/>
-    ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=chasmalin&show_icons=true&theme=great-gatsby)
+    
 </div>
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=chasmalin&show_icons=true&theme=great-gatsby)
     
 ![snake animation](https://github.com/chasmalin/chasmalin/blob/output/github-contribution-grid-snake2.svg)
 
