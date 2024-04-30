@@ -6,8 +6,9 @@
   <img height="145em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chasmalin&layout=compact&langs_count=7&theme=vision-friendly-dark"/>
 </div>
 
-
 ![snake animation](https://github.com/chasmalin/chasmalin/blob/output/github-contribution-grid-snake2.svg)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=chasmalin&show_icons=true&theme=radical)
 
 <!--
 ![Snake animation](https://github.com/chasmalin/chasmalin/blob/output/github-contribution-grid-snake.svg)
