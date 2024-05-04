@@ -11,10 +11,10 @@
 -->
 
 <a href="https://github.com/chasmalin/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=chasmalin&card_width=320&theme=great-gatsby" />
+  <img height=150em align="center" src="https://github-readme-stats.vercel.app/api?username=chasmalin&card_width=320&theme=great-gatsby" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=chasmalin&layout=compact&langs_count=8&card_width=320&theme=vision-friendly-dark" />
+  <img height=150em align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=chasmalin&layout=compact&langs_count=8&card_width=320&theme=vision-friendly-dark" />
 </a>
 <!--
 ![Snake animation](https://github.com/chasmalin/chasmalin/blob/output/github-contribution-grid-snake.svg)
