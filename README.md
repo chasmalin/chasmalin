@@ -1,6 +1,8 @@
 ## Oieee~ 🦈✨
 
 ![snake gif](https://github.com/chasmalin/chasmalin/blob/output/github-contribution-grid-snake.gif)
+...
+![snake animation](https://github.com/chasmalin/chasmalin/blob/output/github-contribution-grid-snake2.svg)
 <!--
 <div align="center">
   <a href="https://github.com/chasmalin">
