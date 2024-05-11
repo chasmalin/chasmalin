@@ -17,6 +17,7 @@
 <a href="https://github.com/anuraghazra/convoychat">
   <img height=150em align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=chasmalin&layout=compact&langs_count=8&card_width=320&theme=vision-friendly-dark" />
 </a>
+
 ![snake gif](https://github.com/chasmalin/chasmalin/blob/output/github-contribution-grid-snake.gif)
 <!--
 ![Snake animation](https://github.com/chasmalin/chasmalin/blob/output/github-contribution-grid-snake.svg)
